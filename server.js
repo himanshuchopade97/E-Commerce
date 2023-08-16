@@ -39,7 +39,7 @@ var app = express();
 
  app.get('/',  (req, res) =>{
     var str="<h1>Vijay Sales Store</h1>"+"<hr/>"+
-    "<a href ='' >Abous us | </a>"+"<a href='' >Services</a>"+"</hr>"+
+    "<a href ='' >Abouts us | </a>"+"<a href='' >Services</a>"+"</hr>"+
     "<ol><li>Engg</li> <li>Medical</li></ol>"   
     res.send(str);                   
  })
