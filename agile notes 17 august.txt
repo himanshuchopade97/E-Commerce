@@ -1,0 +1,17 @@
+Design Principle:
+		1. DRY   :- do not repeat yourself, use reusable functions so that its easier to do things, rather than changing everything everytime
+		2. Hollywood :- Do not call me, I will call you.
+		3. SOLID
+			S: Single responsibility principle
+				connection object
+				command object
+				result set
+	
+			O: Open for extension closed for modification
+			L: Liskove's Substituion Principle
+			I: Interface Saggreagtion Principle
+			D: Dependancy Injection (Inversion)
+
+
+
+
